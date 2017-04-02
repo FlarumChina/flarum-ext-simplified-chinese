@@ -1,18 +1,18 @@
 {
-    "name": "jsthon/flarum-ext-simplified-chinese",
+    "name": "skywalker512/flarum-ext-simplified-chinese",
     "type": "flarum-extension",
-    "description": "Simplified Chinese language pack.",
+    "description": "Simplified Chinese language pack fix by skywalker512.",
     "keywords": ["locale"],
     "license": "MIT",
-    "version": "v0.1.0-beta.6",
+    "version": "1.0.0",
     "authors": [
         {
-            "name": "Jsthon Wong",
-            "email": "jsthon@outlook.com"
+            "name": "skywalker512",
+            "email": "houzhenhong@outlook.com"
         }
     ],
     "support": {
-        "source": "https://github.com/jsthon/flarum-ext-simplified-chinese"
+        "source": "https://github.com/skywalker512/flarum-ext-simplified-chinese"
     },
     "require": {
         "flarum/core": "^0.1.0-beta.6"
