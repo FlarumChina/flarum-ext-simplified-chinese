@@ -1,5 +1,5 @@
 {
-    "name": "skywalker512/flarum-ext-simplified-chinese",
+    "name": "flarumchina/flarum-ext-simplified-chinese",
     "type": "flarum-extension",
     "description": "Simplified Chinese language pack fix by skywalker512.",
     "keywords": ["locale"],
@@ -15,7 +15,7 @@
         "source": "https://github.com/skywalker512/flarum-ext-simplified-chinese"
     },
     "require": {
-        "skywalker512/FlarumChinaCore": "^0.1.0-beta.6"
+        "flarumchina/core": "^0.1.0-beta.6.1"
     },
     "extra": {
         "flarum-extension": {
