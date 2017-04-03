@@ -15,7 +15,7 @@
         "source": "https://github.com/skywalker512/flarum-ext-simplified-chinese"
     },
     "require": {
-        "flarumchina/core": "^0.1.0-beta.6.1"
+        "flarum/core": "^0.1.0-beta.6"
     },
     "extra": {
         "flarum-extension": {
