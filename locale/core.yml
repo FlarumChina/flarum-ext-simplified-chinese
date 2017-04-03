@@ -56,8 +56,8 @@ core:
       features_text: "有好的主意来改善功能？请来这告诉我们 <a>特性标签</a> 。"
       support_text: "找到一个Bug？ 请在这里反馈 <a>支持标签</a> 。"
       troubleshooting_text: "有问题吗？ 请阅读 <a>故障排除文档</a> 。"
-      version_text: "感谢你使用 Flarum ！ 你正在运行版本是 {version} 。"
-      welcome_text: "欢迎使用 Flarum Beta!"
+      version_text: "感谢你使用 FlarumChina ！ 你正在运行版本是 FlarumChina {version} 。"
+      welcome_text: "欢迎使用 FlarumChina Beta!"
 
     # These translations are used in the Edit Custom CSS modal dialog.
     edit_css:
@@ -87,19 +87,18 @@ core:
     # These translations are used in the email page of the admin interface.
     email:
       account_heading: SMTP 账户
-      addresses_heading: 邮件地址
-      driver_label: 发送程序
-      encryption_label: 加密
-      from_label: 发件人
+      addresses_heading: 发信地址
+      driver_label: 发送方式(mail[默认]或smtp[输入此下面的设置才生效])
+      encryption_label: 验证方式(若要使用SSL协议请输入ssl，若不需要请不填)
+      from_label: 发信人
       heading: => core.ref.email
-      host_label: 主机
+      host_label: 服务器地址
       password_label: => core.ref.password
       port_label: 端口
       server_heading: SMTP 服务器
       submit_button: => core.ref.save_changes
-      text: 配置SMTP和发送邮件的地址
+      text: 配置SMTP设置和地址将用于您的论坛发送电子邮件。
       username_label: => core.ref.username
-
     # These translations are used in the Extensions page.
     extensions:
       add_button: 添加插件
