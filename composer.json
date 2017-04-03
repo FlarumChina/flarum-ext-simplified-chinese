@@ -2,7 +2,7 @@
     "name": "flarumchina/flarum-ext-simplified-chinese",
     "type": "flarum-extension",
     "description": "Simplified Chinese language pack fix by skywalker512.",
-    "keywords": ["locale"],
+    "keywords": ["locale,flarum"],
     "license": "MIT",
     "version": "1.0.0",
     "authors": [
